@@ -1,0 +1,18 @@
+"WEB SCRAPPING THE COVID-19 DATA AND USING VOICE ASSISTANT TO GET DETAILS"
+
+Based on the knowledge gained from 15 days Python Training I have developed this project.
+Here in this project I used the requests and BeautifulSoup4 module to webscrap the latest 
+details on COVID-19 of various countries and store it in a JSON file named "covid.json".
+Also I have used the pyttsx3 module along with speech_recognition module to guide the 
+voice assistant to update the data in JSON file as well as getting specific details on a 
+particular country. Here the details of COVID-19 statistics will be updated dynamically based
+on scrapped webpage.
+
+Webpage I scrapped : https://www.worldometers.info/coronavirus/#countries
+
+files included: covid.json, covid_speaker.py
+
+Please Note : Although I tried to make this project free of bugs and errors. There may be certain bugs and runtime 
+errors still remaining in this project. Also do note that an active internet connection is required to run this project 
+
+Thank you 
