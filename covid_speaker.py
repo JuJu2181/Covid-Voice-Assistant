@@ -29,10 +29,6 @@ table_data = table.tbody.find_all("tr")
 results = [{header[index]:cell.text for index,cell in enumerate(row.find_all('td'))}for row in tablerows]
 
 
-    
-   
-# print(COUNTRY_LIST)
-
 #functions to get details
 def getAllCountryDetails(country):
     for i in results:
