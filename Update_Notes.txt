@@ -1,0 +1,5 @@
+These are the update notes for Version 1.1 
+-> Minor bug fixes  
+-> Now this system can take a string of words as input when inputting country's name as well as any other data 
+
+

@@ -14,5 +14,8 @@ files included: covid.json, covid_speaker.py
 
 Please Note : Although I tried to make this project free of bugs and errors. There may be certain bugs and runtime 
 errors still remaining in this project. Also do note that an active internet connection is required to run this project 
+Also I will be updating soon. 
 
 Thank you 
+
+
